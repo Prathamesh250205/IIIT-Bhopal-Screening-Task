@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch & Machine Learning checkpoints
+*.pt
+*.pth
+*.bin
+
+# Weights & Biases runs
+wandb/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# MedMNIST raw data caches
+.medmnist/
+rawdata/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+
