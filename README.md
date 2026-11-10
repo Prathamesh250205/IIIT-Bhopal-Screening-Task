@@ -122,7 +122,7 @@ Here is the exact record of changes made to the PFLlib codebase:
 
 ### Step 1: Clone the Repo and Install Requirements
 ```bash
-git clone https://github.com/<your-username>/IIIT-Bhopal-Screening-Task.git
+git clone https://github.com/Prathamesh250205/IIIT-Bhopal-Screening-Task.git
 cd IIIT-Bhopal-Screening-Task
 
 pip install torch torchvision medmnist wandb matplotlib reportlab pypdf
