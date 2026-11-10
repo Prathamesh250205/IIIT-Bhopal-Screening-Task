@@ -2,7 +2,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg)](https://pytorch.org/)
-[![Weights & Biases](https://img.shields.io/badge/W%26B-Tracking-yellow.svg)](https://wandb.ai)
+[![Weights & Biases](https://img.shields.io/badge/W%26B-Tracking-yellow.svg)](https://forge.coreweave.com/wandb/gulavaniprathamesh-shivaji-university/fedavg-vs-fedprox-pathmnist)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
